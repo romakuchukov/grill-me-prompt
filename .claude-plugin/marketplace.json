@@ -1,0 +1,12 @@
+{
+  "name": "grill-me-prompt",
+  "description": "Popup-driven wrapper around Matt Pocock's grill-me skill.",
+  "owner": { "name": "romakuchukov" },
+  "plugins": [
+    {
+      "name": "grill-me-prompt",
+      "source": "./",
+      "description": "Grill-me interview that asks each round as clickable popups instead of typed text. Requires Matt Pocock's grilling skill."
+    }
+  ]
+}

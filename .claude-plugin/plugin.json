@@ -1,0 +1,8 @@
+{
+  "name": "grill-me-prompt",
+  "version": "0.1.0",
+  "description": "Grill-me interview that asks each round as clickable popups instead of typed text. Requires Matt Pocock's grilling skill.",
+  "author": { "name": "romakuchukov" },
+  "repository": "https://github.com/romakuchukov/grill-me-prompt",
+  "license": "MIT"
+}
